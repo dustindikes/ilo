@@ -340,7 +340,7 @@ function processWords(words)
         var words = sentence.split(" ");
     }
     var output = '';
-    var url = window.location.origin+'/~dustin/ilo/?t=';
+    var url = window.location.origin+'/ilo/?t=';
 
     for( x in words )
     {
