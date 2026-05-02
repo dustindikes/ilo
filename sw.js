@@ -2,7 +2,7 @@ const cacheName = 'ilo-v3a';
 const appFiles = [
     '/ilo/',
     '/ilo/index.html',
-    '/ilo/main.js',
+    '/ilo/main.js?v=1',
     '/ilo/style.css',
     '/ilo/icon32.png',
     '/ilo/icon144.png',
